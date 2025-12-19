@@ -1,135 +1,125 @@
-<div align="center">
+<h1 align="center">
+  Hi, I'm Rosita 💕
+</h1>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh4ZndpZHN6ZHVhZ3Y0dHJnY2J6MXE2MWF4aTJpZ2Z6eG56bG1rMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNQ03J5JxX6lva/giphy.gif" width="250"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B4cWZkZWc0c3R5cHdzZ2R5MmljMmF4aXNrZGx0MHFzbnVkbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="280"/>
+</p>
 
-# Hi, I'm Rosita 👩‍💻✨
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;System+Analyst+in+Progress;IT+Project+Enthusiast"/>
-
-</div>
-
----
-
-## 💻 About My IT World
-Aku fokus mengerjakan **project di dunia IT**, khususnya:
-
-🎨 UI/UX Design  
-🧩 System Analysis  
-🖥️ Web & Mobile App  
-📊 Flow, logic, dan user experience  
-
-Aku percaya:
-> **Sistem bagus itu bukan cuma jalan, tapi bikin user nyaman.**
+<p align="center">
+🌸 UI/UX Designer | Women-Centered Design | IT Project Creator 🌸
+</p>
 
 ---
 
-## 🚀 My IT Focus Area
-<div align="center">
+## 💖 About My Design World
+Aku adalah **UI/UX Designer** yang fokus pada:
+- Desain ramah perempuan
+- Tampilan lembut & nyaman
+- Alur yang mudah dipahami
+- User experience yang penuh empati  
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+Aku percaya desain yang baik itu:
+> **bukan cuma cantik, tapi juga peduli sama user-nya.**
 
-</div>
+---
 
-- UI/UX Design (Figma)
+## 🎨 Design Focus (For Women)
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lYCDgxP6OFBruE/giphy.gif" width="250"/>
+</p>
+
+Aku sering mengerjakan desain untuk:
+- 🤰 Kesehatan ibu & perempuan  
+- 🎓 Edukasi  
+- 🛍️ UMKM & bisnis kecil  
+- 📱 Aplikasi mobile berbasis kebutuhan perempuan  
+
+Fokus utamaku:
+- Simpel
+- Hangat
+- Intuitif
+- Tidak melelahkan mata
+
+---
+
+## 🛠 Tools & Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,github" />
+</p>
+
+- UI Design (Mobile & Web)
+- UX Research (basic)
 - User Flow & Wireframe
-- Prototyping
-- System Documentation
-- Basic Database & Logic
+- Prototyping (Figma)
+- System Analysis (basic)
 
 ---
 
-## 🛠 Tech & Tools I Use
-<div align="center">
+## 🌷 Featured Projects
 
-<img src="https://skillicons.dev/icons?i=figma,html,css,js,php,mysql,git,github" />
+### 🤰 MomCare App (UI/UX Design)
+Aplikasi mobile untuk ibu hamil dengan:
+- Warna lembut
+- Layout tenang
+- Informasi mudah dipahami  
 
-</div>
+🔗 https://www.figma.com/design/NC8fE3zEtGAMsB6lYWpjJ3/APLIKASI-BIDAN
 
-- **Design:** Figma  
-- **System:** UML, Flowchart  
-- **Database:** Basic SQL  
-- **Concept:** CRUD, ERP Flow  
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohhwxWlW2YyMZVxgY/giphy.gif" width="230"/>
+</p>
 
 ---
 
-## 📌 IT Projects Showcase
+### 🎓 School Management System (UI Focus)
+Sistem akademik sekolah dengan:
+- UI rapi & terstruktur
+- Mudah dipakai guru & siswa  
 
-### 🎓 School Management Information System
-📚 Sistem akademik berbasis web  
-- Data siswa & guru  
-- Nilai, absensi, materi  
-- Alur sistem terstruktur  
-
-🔗 UI Design  
-👉 https://www.figma.com/design/CHvd6SmGNWPiSVaijqR06o/SIM-SEKOLAH
+🔗 https://www.figma.com/design/CHvd6SmGNWPiSVaijqR06o/SIM-SEKOLAH
 
 ---
 
 ### 🍰 Cake Shop Website
-🛒 Web CRUD untuk toko kue  
-- Produk  
-- Stok  
-- Transaksi  
+Website UMKM dengan:
+- Tampilan manis 🍰
+- Alur sederhana
+- Fokus ke kemudahan admin  
 
-🔗 UI Design  
-👉 https://www.figma.com/design/ixRXQHvIqjtPeuOhPmCrbF/projek-rpl
+🔗 https://www.figma.com/design/ixRXQHvIqjtPeuOhPmCrbF/projek-rpl
 
----
-
-### 🤰 MomCare Mobile App
-📱 UI/UX aplikasi kesehatan ibu  
-- Monitoring kehamilan  
-- Tampilan ramah user  
-
-🔗 UI Design  
-👉 https://www.figma.com/design/NC8fE3zEtGAMsB6lYWpjJ3/APLIKASI-BIDAN
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="240"/>
+</p>
 
 ---
 
-### 🩺 Oxygen Tank Rental System
-⚙️ Sistem digital:
-- QR Code Tracking  
-- Deposit System  
-- Location-based service  
+## 🌸 Design Values
+> ✨ Empathy first  
+> ✨ Soft but clear  
+> ✨ Beauty with purpose  
 
-Fokus pada **alur sistem & kemudahan user**.
-
----
-
-### 🧾 ERPNext – Accounting & Finance
-📊 Customization & integration:
-- Accounting flow  
-- Finance process  
-- System documentation  
+Aku selalu bertanya:
+- Apakah desain ini bikin user nyaman?
+- Apakah mudah dipahami tanpa penjelasan?
+- Apakah terasa “ramah”?
 
 ---
 
-## 🎨 How I Design & Build
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
-</div>
-
-- Pahami masalah
-- Rancang alur user
-- Buat prototype
-- Evaluasi & perbaiki
-- Ulangi sampai user senyum 😄
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=rose_pine" />
+</p>
 
 ---
 
-## 📫 Let’s Collaborate
-<div align="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
-
-</div>
-
-📧 Email: rositasamsulleikaputrii@gmail.com  
+## 📫 Let’s Connect
+💌 Email: rositasamsulleikaputrii@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/rosita-samsulleika-putri-2b7522350  
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsspf0C8B0tY5Dy/giphy.gif" width="180"/>
+</p>
 
-⭐ **More IT projects coming soon…**  
-☕ _Design first, logic follows._
+🌷 <i>Designing with empathy, especially for women.</i>
