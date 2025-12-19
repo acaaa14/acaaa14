@@ -1,147 +1,107 @@
-<h1 align="center">
-  Hi, I'm Rosita 👩‍💻✨
-</h1>
+# Hi! I'm Rosita 👩‍💻✨  
+_UI/UX Designer | System Analyst in Progress_
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN0b3J6aXN5YzZpZzQ0bG1nZWt6bWF5Z3Q1YjF5cHZ2c3F0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
-</p>
+Aku fokus mengerjakan **project IT**, khususnya:
+🎨 UI/UX Design  
+🧩 System Analysis  
+🖥️ Web & Mobile App Prototype  
 
-<p align="center">
-✨ UI/UX Designer | System Analyst | IT Project Explorer ✨
-</p>
-
----
-
-## 💻 About My IT World
-<p>
-Aku fokus di dunia <b>Information Technology</b>, khususnya:
-</p>
-
-- 🎨 UI/UX Design  
-- 🧩 System Analysis  
-- 🖥️ Web & Mobile App Prototype  
-- 📊 Logic, Flow, dan User Experience  
-
-> Aku suka bikin sistem yang **nggak bikin user mikir keras** 😄
+Tujuanku simpel:  
+**bikin sistem yang jalan dengan baik dan nyaman dipakai user.**
 
 ---
 
-## 🛠 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,php,mysql,github" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</p>
+## 🚀 My IT Focus
+- UI/UX Design (Web & Mobile)
+- User Flow & Wireframe
+- System Analysis & Documentation
+- Prototyping (Figma)
+- Database & Logic (Basic)
 
 ---
 
-## 🎨 UI/UX Focus
-<p align="center">
-  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="250"/>
-</p>
-
-Aku terbiasa mengerjakan:
+## 🧠 Tech & Tools
+**Design**
+- Figma
+- UI Prototype
 - User Flow
 - Wireframe
-- Prototype
-- UI Mobile & Web
-- UX Thinking (biar user nggak nyasar)
+
+**System & Development**
+- UML
+- Basic SQL
+- CRUD Concept
+- ERPNext (Accounting & Finance – basic)
 
 ---
 
-## 📌 My IT Projects
+## 📌 Featured Projects
 
 ### 🎓 School Management Information System (SIM Sekolah)
-📚 Sistem akademik sekolah berbasis web:
+Sistem manajemen sekolah berbasis web untuk:
 - Data siswa & guru  
 - Nilai, absensi, dan materi  
-- UI terstruktur & mudah dipahami  
+- Alur akademik yang terstruktur  
 
-🔗 https://www.figma.com/design/CHvd6SmGNWPiSVaijqR06o/SIM-SEKOLAH
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="250"/>
-</p>
+🔗 UI Design:  
+https://www.figma.com/design/CHvd6SmGNWPiSVaijqR06o/SIM-SEKOLAH
 
 ---
 
-### 🍰 Cake Shop Website (CRUD System)
-Website manajemen toko kue:
-- Produk
-- Stok
-- Harga
-- Transaksi  
+### 🍰 Cake Shop Website
+Website CRUD untuk manajemen:
+- Produk kue  
+- Stok & harga  
+- Transaksi penjualan  
 
-Fokus ke **UI simpel & alur jelas**.
+Fokus pada **UI yang simpel & mudah digunakan**.  
 
-🔗 https://www.figma.com/design/ixRXQHvIqjtPeuOhPmCrbF/projek-rpl
+🔗 UI Design:  
+https://www.figma.com/design/ixRXQHvIqjtPeuOhPmCrbF/projek-rpl
 
 ---
 
 ### 🤰 MomCare Mobile App (UI/UX)
-Aplikasi mobile untuk monitoring kehamilan:
-- Tampilan ramah ibu
-- UX sederhana & informatif
+Desain UI/UX aplikasi mobile untuk:
+- Monitoring kehamilan  
+- Informasi kesehatan ibu  
+- Tampilan ramah & intuitif  
 
-🔗 https://www.figma.com/design/NC8fE3zEtGAMsB6lYWpjJ3/APLIKASI-BIDAN
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4f9j4rG5KqZLa/giphy.gif" width="230"/>
-</p>
+🔗 UI Design:  
+https://www.figma.com/design/NC8fE3zEtGAMsB6lYWpjJ3/APLIKASI-BIDAN
 
 ---
 
 ### 🩺 Oxygen Tank Rental System
-Sistem digital:
+Sistem digital penyewaan tabung oksigen:
 - QR Code tracking  
-- Deposit system  
-- Peta lokasi terdekat  
+- Sistem deposit  
+- Pencarian lokasi terdekat (Maps)  
 
-Fokus ke **alur sistem & pengalaman user**.
-
----
-
-### 🧾 ERPNext – Accounting & Finance
-- Analisis alur transaksi
-- Customization modul
-- Dokumentasi sistem
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
-</p>
+Fokus pada **alur sistem & kemudahan user**.
 
 ---
 
-## 🧠 IT Mindset
-> “Good system works.  
-Great system feels easy.”
-
-Aku selalu mikir:
-- User paham nggak?
-- Bisa dipersingkat nggak?
-- Lebih enak dilihat nggak?
+### 🧾 ERPNext – Accounting & Finance Module
+- Customization modul Accounting & Finance  
+- Analisis alur transaksi antar modul  
+- Dokumentasi implementasi sistem  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" />
-</p>
+## ✨ Design Philosophy
+> “UI yang bagus bikin user betah,  
+UX yang bagus bikin user balik lagi.”
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight" />
-</p>
+Aku selalu mendesain dengan pertanyaan:
+- Apakah user ngerti tanpa dijelasin?
+- Apakah langkahnya terlalu banyak?
+- Bisa dipermudah nggak?
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let’s Talk About Projects
 📧 Email: rositasamsulleikaputrii@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/rosita-samsulleika-putri-2b7522350  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="200"/>
-</p>
-
-⭐ <i>More IT projects coming soon...</i>
+⭐ _More projects coming soon — stay tuned!_
