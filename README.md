@@ -3,145 +3,125 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN0b3J6aXN5YzZpZzQ0bG1nZWt6bWF5Z3Q1YjF5cHZ2c3F0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330"/>
 </p>
 
 <p align="center">
-✨ UI/UX Designer | System Analyst | IT Project Explorer ✨
+  UI/UX Designer • System Analyst • Women in Tech
 </p>
 
 ---
 
-## 💻 About My IT World
-<p>
-Aku fokus di dunia <b>Information Technology</b>, khususnya:
+## 👩‍💻 About Me
+Aku adalah **UI/UX Designer** yang fokus di dunia **IT & System Design**.  
+Aku senang mengerjakan project yang menggabungkan **visual yang rapi**, **alur yang jelas**, dan **pengalaman pengguna yang nyaman**, khususnya untuk **perempuan**.
+
+> _Good design works. Great design feels effortless._
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
 </p>
-
-- 🎨 UI/UX Design  
-- 🧩 System Analysis  
-- 🖥️ Web & Mobile App Prototype  
-- 📊 Logic, Flow, dan User Experience  
-
-> Aku suka bikin sistem yang **nggak bikin user mikir keras** 😄
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🎨 UI/UX & IT Focus
+- UI/UX Design (Mobile & Web)
+- User Flow & Wireframe
+- Prototyping (Figma)
+- System Analysis
+- Basic Frontend & Database Concept
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,php,mysql,github" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif" width="230"/>
 </p>
 
 ---
 
-## 🎨 UI/UX Focus
-<p align="center">
-  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="250"/>
-</p>
+## 📂 Featured IT Projects
 
-Aku terbiasa mengerjakan:
-- User Flow
-- Wireframe
-- Prototype
-- UI Mobile & Web
-- UX Thinking (biar user nggak nyasar)
-
----
-
-## 📌 My IT Projects
-
-### 🎓 School Management Information System (SIM Sekolah)
-📚 Sistem akademik sekolah berbasis web:
-- Data siswa & guru  
-- Nilai, absensi, dan materi  
-- UI terstruktur & mudah dipahami  
-
-🔗 https://www.figma.com/design/CHvd6SmGNWPiSVaijqR06o/SIM-SEKOLAH
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="250"/>
-</p>
-
----
-
-### 🍰 Cake Shop Website (CRUD System)
-Website manajemen toko kue:
-- Produk
-- Stok
-- Harga
-- Transaksi  
-
-Fokus ke **UI simpel & alur jelas**.
-
-🔗 https://www.figma.com/design/ixRXQHvIqjtPeuOhPmCrbF/projek-rpl
-
----
-
-### 🤰 MomCare Mobile App (UI/UX)
-Aplikasi mobile untuk monitoring kehamilan:
-- Tampilan ramah ibu
-- UX sederhana & informatif
+### 🤰 MomCare App (UI/UX Design)
+UI/UX aplikasi mobile untuk monitoring kehamilan:
+- Tampilan lembut & ramah perempuan
+- Alur sederhana & informatif
 
 🔗 https://www.figma.com/design/NC8fE3zEtGAMsB6lYWpjJ3/APLIKASI-BIDAN
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4f9j4rG5KqZLa/giphy.gif" width="230"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="220"/>
 </p>
 
 ---
 
-### 🩺 Oxygen Tank Rental System
-Sistem digital:
-- QR Code tracking  
-- Deposit system  
-- Peta lokasi terdekat  
+### 🎓 School Management Information System
+Sistem akademik sekolah berbasis web:
+- Data siswa & guru
+- Nilai, absensi, materi
+- UI rapi & terstruktur
 
-Fokus ke **alur sistem & pengalaman user**.
+🔗 https://www.figma.com/design/CHvd6SmGNWPiSVaijqR06o/SIM-SEKOLAH
 
 ---
 
-### 🧾 ERPNext – Accounting & Finance
-- Analisis alur transaksi
-- Customization modul
-- Dokumentasi sistem
+### 🍰 Cake Shop Website
+Website CRUD untuk UMKM:
+- Produk & stok
+- Harga & transaksi
+- UI simpel & mudah digunakan
+
+🔗 https://www.figma.com/design/ixRXQHvIqjtPeuOhPmCrbF/projek-rpl
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220"/>
 </p>
-
----
-
-## 🧠 IT Mindset
-> “Good system works.  
-Great system feels easy.”
-
-Aku selalu mikir:
-- User paham nggak?
-- Bisa dipersingkat nggak?
-- Lebih enak dilihat nggak?
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=acaaa14&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaaa14&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acaaa14&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsspf0C8B0tY5Dy/giphy.gif" width="180"/>
 </p>
 
 ---
 
-## 📫 Let’s Connect
+## 🧠 Design Mindset
+- Empathy-first design
+- Clear & simple flow
+- Visual yang nyaman dilihat
+- User tidak perlu mikir lama
+
+> _Designing technology that feels human._
+
+---
+
+## 📫 Connect With Me
 📧 Email: rositasamsulleikaputrii@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/rosita-samsulleika-putri-2b7522350  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="190"/>
 </p>
 
-⭐ <i>More IT projects coming soon...</i>
+⭐ _More IT & UI/UX projects coming soon._
