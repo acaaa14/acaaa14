@@ -1,98 +1,135 @@
-# Hi there! 👋 I'm Rosita 🌸  
-_UI/UX Enthusiast | Information Systems Student | Turning ideas into friendly interfaces_
+<div align="center">
 
-🎓 Mahasiswi Sistem Informasi semester 5  
-🎨 Fokus di **UI/UX Design & System Design**  
-🧠 Suka mikir alur, user flow, dan “ini user bakal bingung nggak ya?”  
-☕ Ngopi sambil ngedesain? Wajib.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnh4ZndpZHN6ZHVhZ3Y0dHJnY2J6MXE2MWF4aTJpZ2Z6eG56bG1rMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNQ03J5JxX6lva/giphy.gif" width="250"/>
 
----
+# Hi, I'm Rosita 👩‍💻✨
 
-## ✨ About Me
-Aku adalah mahasiswa Sistem Informasi di **Universitas Esa Unggul** yang tertarik pada pengembangan sistem **berbasis user experience**.  
-Aku percaya kalau **aplikasi bagus itu bukan cuma jalan, tapi juga nyaman dipakai**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;System+Analyst+in+Progress;IT+Project+Enthusiast"/>
 
-Biasanya aku:
-- Mendesain UI/UX menggunakan **Figma**
-- Membuat **user flow, wireframe, dan prototype**
-- Ikut terlibat dalam **analisis sistem & dokumentasi**
-- Kerja rapi, terstruktur, dan anti “asal jadi” 😄
+</div>
 
 ---
 
-## 🎨 What I Love Working On
-- UI/UX Design (Mobile & Web)
-- Prototyping & User Flow
-- System Analysis
-- Documentation & Admin Support
-- Agile & DSDM Methodology
+## 💻 About My IT World
+Aku fokus mengerjakan **project di dunia IT**, khususnya:
 
-> *“Good design is obvious. Great design is transparent.”*
+🎨 UI/UX Design  
+🧩 System Analysis  
+🖥️ Web & Mobile App  
+📊 Flow, logic, dan user experience  
+
+Aku percaya:
+> **Sistem bagus itu bukan cuma jalan, tapi bikin user nyaman.**
 
 ---
 
-## 🛠 Tools & Skills
-✨ **Design**
-- Figma
-- UI Prototype Design
+## 🚀 My IT Focus Area
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+
+</div>
+
+- UI/UX Design (Figma)
 - User Flow & Wireframe
-
-📊 **System & Analysis**
-- UML
-- Basic SQL
-- Root Cause Analysis (Fishbone)
-- ERPNext (Accounting & Finance – basic)
-
-📁 **Others**
-- Microsoft Office
-- Document Management
-- Time Management
-- Team Collaboration
+- Prototyping
+- System Documentation
+- Basic Database & Logic
 
 ---
 
-## 📌 Highlight Projects
-🎓 **School Management Information System (SIM Sekolah)**  
-UI/UX design untuk sistem akademik sekolah  
-🔗 https://www.figma.com/design/CHvd6SmGNWPiSVaijqR06o/SIM-SEKOLAH
+## 🛠 Tech & Tools I Use
+<div align="center">
 
-🍰 **Cake Shop Website**  
-UI CRUD untuk manajemen produk & transaksi  
-🔗 https://www.figma.com/design/ixRXQHvIqjtPeuOhPmCrbF/projek-rpl
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,php,mysql,git,github" />
 
-🤰 **MomCare App (UI/UX)**  
-Desain aplikasi monitoring kehamilan  
-🔗 https://www.figma.com/design/NC8fE3zEtGAMsB6lYWpjJ3/APLIKASI-BIDAN
+</div>
 
-🩺 **Oxygen Tank Rental System (QR Code Based)**  
-Desain sistem penyewaan tabung oksigen + tracking lokasi
+- **Design:** Figma  
+- **System:** UML, Flowchart  
+- **Database:** Basic SQL  
+- **Concept:** CRUD, ERP Flow  
 
 ---
 
-## 🏆 Achievements
-🏅 Atlet Arung Jeram – PORPROV Banten  
-- 🥇 1st Place R4 Women’s Slalom  
-- 🥈 2nd Place R4 Women’s Head to Head  
-- 🥉 Multiple 3rd Places  
+## 📌 IT Projects Showcase
 
-🎓 **KIPK Kampus Merdeka Scholarship Awardee**
+### 🎓 School Management Information System
+📚 Sistem akademik berbasis web  
+- Data siswa & guru  
+- Nilai, absensi, materi  
+- Alur sistem terstruktur  
 
----
-
-## 📜 Certifications
-- Introduction to Programming with Python – Dicoding  
-- Basic SQL – Dicoding  
-- Basic Data Visualization – Dicoding  
-- Basic Data Science – Dicoding  
-- Basic Artificial Intelligence – Dicoding  
+🔗 UI Design  
+👉 https://www.figma.com/design/CHvd6SmGNWPiSVaijqR06o/SIM-SEKOLAH
 
 ---
 
-## 📫 Let's Connect!
-- 📧 Email: rositasamsulleikaputrii@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/rosita-samsulleika-putri-2b7522350  
-- 🎨 Figma: (lihat project di atas 👆)
+### 🍰 Cake Shop Website
+🛒 Web CRUD untuk toko kue  
+- Produk  
+- Stok  
+- Transaksi  
+
+🔗 UI Design  
+👉 https://www.figma.com/design/ixRXQHvIqjtPeuOhPmCrbF/projek-rpl
 
 ---
 
-⭐ _Feel free to explore my repositories — UI first, logic follows!_  
+### 🤰 MomCare Mobile App
+📱 UI/UX aplikasi kesehatan ibu  
+- Monitoring kehamilan  
+- Tampilan ramah user  
+
+🔗 UI Design  
+👉 https://www.figma.com/design/NC8fE3zEtGAMsB6lYWpjJ3/APLIKASI-BIDAN
+
+---
+
+### 🩺 Oxygen Tank Rental System
+⚙️ Sistem digital:
+- QR Code Tracking  
+- Deposit System  
+- Location-based service  
+
+Fokus pada **alur sistem & kemudahan user**.
+
+---
+
+### 🧾 ERPNext – Accounting & Finance
+📊 Customization & integration:
+- Accounting flow  
+- Finance process  
+- System documentation  
+
+---
+
+## 🎨 How I Design & Build
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+</div>
+
+- Pahami masalah
+- Rancang alur user
+- Buat prototype
+- Evaluasi & perbaiki
+- Ulangi sampai user senyum 😄
+
+---
+
+## 📫 Let’s Collaborate
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
+
+</div>
+
+📧 Email: rositasamsulleikaputrii@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/rosita-samsulleika-putri-2b7522350  
+
+---
+
+⭐ **More IT projects coming soon…**  
+☕ _Design first, logic follows._
