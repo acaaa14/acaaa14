@@ -1,81 +1,78 @@
 <h1 align="center">
-  Hi, I'm Rosita 💕
+  Hi, I'm Rosita 💖
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B4cWZkZWc0c3R5cHdzZ2R5MmljMmF4aXNrZGx0MHFzbnVkbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/1MTLxzwvOnvmE/giphy.gif" width="260"/>
 </p>
 
 <p align="center">
-🌸 UI/UX Designer | Women-Centered Design | IT Project Creator 🌸
+🌸 UI/UX Designer | Women-Centered Design | IT Projects 🌸
 </p>
 
 ---
 
-## 💖 About My Design World
-Aku adalah **UI/UX Designer** yang fokus pada:
+## 💕 About Me
+Aku adalah **UI/UX Designer** yang fokus di dunia **IT & System Design**, dengan pendekatan:
 - Desain ramah perempuan
-- Tampilan lembut & nyaman
-- Alur yang mudah dipahami
+- Tampilan soft & calming
+- Alur yang sederhana & intuitif
 - User experience yang penuh empati  
 
-Aku percaya desain yang baik itu:
-> **bukan cuma cantik, tapi juga peduli sama user-nya.**
+> ✨ *Design should feel friendly, not confusing.*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" width="240"/>
+</p>
 
 ---
 
 ## 🎨 Design Focus (For Women)
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lYCDgxP6OFBruE/giphy.gif" width="250"/>
-</p>
+Aku mendesain aplikasi yang:
+- 🌷 Nyaman dilihat
+- 💗 Mudah digunakan
+- ✨ Tidak melelahkan mata
+- 📱 Cocok untuk kebutuhan perempuan
 
-Aku sering mengerjakan desain untuk:
-- 🤰 Kesehatan ibu & perempuan  
-- 🎓 Edukasi  
-- 🛍️ UMKM & bisnis kecil  
-- 📱 Aplikasi mobile berbasis kebutuhan perempuan  
-
-Fokus utamaku:
-- Simpel
-- Hangat
-- Intuitif
-- Tidak melelahkan mata
+Fokus utama:
+- UI/UX Mobile & Web  
+- User Flow & Wireframe  
+- Prototyping (Figma)  
 
 ---
 
 ## 🛠 Tools & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,github" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,php,mysql,github" />
 </p>
 
-- UI Design (Mobile & Web)
-- UX Research (basic)
-- User Flow & Wireframe
-- Prototyping (Figma)
-- System Analysis (basic)
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif" width="220"/>
+</p>
 
 ---
 
-## 🌷 Featured Projects
+## 🌷 Featured IT Projects
 
 ### 🤰 MomCare App (UI/UX Design)
 Aplikasi mobile untuk ibu hamil dengan:
-- Warna lembut
-- Layout tenang
+- Warna pastel
+- Layout lembut
 - Informasi mudah dipahami  
 
 🔗 https://www.figma.com/design/NC8fE3zEtGAMsB6lYWpjJ3/APLIKASI-BIDAN
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwxWlW2YyMZVxgY/giphy.gif" width="230"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="210"/>
 </p>
 
 ---
 
 ### 🎓 School Management System (UI Focus)
 Sistem akademik sekolah dengan:
-- UI rapi & terstruktur
-- Mudah dipakai guru & siswa  
+- UI rapi
+- Alur jelas
+- Ramah untuk semua user  
 
 🔗 https://www.figma.com/design/CHvd6SmGNWPiSVaijqR06o/SIM-SEKOLAH
 
@@ -84,33 +81,45 @@ Sistem akademik sekolah dengan:
 ### 🍰 Cake Shop Website
 Website UMKM dengan:
 - Tampilan manis 🍰
-- Alur sederhana
-- Fokus ke kemudahan admin  
+- Navigasi sederhana
+- Fokus ke kenyamanan admin  
 
 🔗 https://www.figma.com/design/ixRXQHvIqjtPeuOhPmCrbF/projek-rpl
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="240"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220"/>
 </p>
-
----
-
-## 🌸 Design Values
-> ✨ Empathy first  
-> ✨ Soft but clear  
-> ✨ Beauty with purpose  
-
-Aku selalu bertanya:
-- Apakah desain ini bikin user nyaman?
-- Apakah mudah dipahami tanpa penjelasan?
-- Apakah terasa “ramah”?
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api?username=acaaa14&show_icons=true&theme=rose_pine" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaaa14&layout=compact&theme=rose_pine" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acaaa14&theme=rose_pine" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="180"/>
+</p>
+
+---
+
+## 🌸 Design Values
+> 💗 Empathy First  
+> 🌷 Soft Visual  
+> ✨ Clear Flow  
+
+Aku selalu bertanya:
+- Apakah user merasa nyaman?
+- Apakah desain mudah dipahami?
+- Apakah tampilannya ramah?
 
 ---
 
@@ -119,7 +128,7 @@ Aku selalu bertanya:
 💼 LinkedIn: https://www.linkedin.com/in/rosita-samsulleika-putri-2b7522350  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gsspf0C8B0tY5Dy/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/26gsspf0C8B0tY5Dy/giphy.gif" width="170"/>
 </p>
 
-🌷 <i>Designing with empathy, especially for women.</i>
+🌷 <i>Designing digital experiences with warmth & empathy.</i>
