@@ -1,110 +1,149 @@
-<h1 align="center">
-  Hi, I'm Rosita 👩‍💻
-</h1>
+<!-- ===================== HERO SECTION ===================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<h1>Rosita Samsulleika Putri</h1>
+
+<p>
+<b>Mobile UI/UX Designer • System Analyst • Mobile Developer</b><br/>
+<sub>Designing user-centered mobile applications with structured systems</sub>
 </p>
 
+  <img 
+      src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" 
+      width="240"
+      alt="woman coding illustration">/
+</div>
+
+---
+
+<!-- ===================== PROFILE SUMMARY ===================== -->
+## Professional Summary
+
+Saya merupakan **UI/UX Designer dan System Analyst** dengan fokus utama pada  
+**perancangan dan pengembangan aplikasi mobile berbasis Android dan iOS**.
+
+Berpengalaman dalam proses pengembangan mobile secara end-to-end, meliputi:
+- Analisis kebutuhan pengguna dan sistem mobile  
+- Penyusunan user flow, wireframe, dan arsitektur aplikasi  
+- Desain antarmuka mobile yang konsisten, intuitif, dan mudah digunakan  
+- Kolaborasi dengan developer melalui proses design handoff  
+
+> *Focused on clarity, usability, and meaningful mobile digital solutions.*
+
+---
+
+<!-- ===================== CORE EXPERTISE ===================== -->
+## Core Expertise (Mobile-Oriented)
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 Mobile UI/UX Design
+- Mobile User Flow & Wireframe  
+- Android & iOS UI Design  
+- Interactive Prototyping (Figma)  
+- Usability & Accessibility  
+
+</td>
+<td width="50%">
+
+### 🧠 Mobile System Analysis
+- Requirement Analysis  
+- User Journey & Use Case  
+- Functional Specification  
+- Technical Documentation  
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-  UI/UX Designer • System Analyst • Mobile Developer • Women in Tech
+
+<img 
+  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+  width="300"
+  alt="female ui ux designer working illustration"
+/>
+
 </p>
 
 ---
 
-## 👋 About Me
-Aku adalah **UI/UX Designer** yang fokus di dunia **Information Technology**, khususnya pada pengembangan aplikasi mobile dan pengalaman pengguna. Keahlian utamaku meliputi:
-- Perancangan UI/UX berbasis kebutuhan user (mobile-first)
-- System analysis & user flow untuk aplikasi mobile
-- Prototyping dan desain interaksi untuk Android & iOS (Figma)
-- Implementasi dasar frontend mobile dan konsep database
+<!-- ===================== SKILL LEVEL ===================== -->
+## Skill Proficiency
 
-Aku tertarik membuat sistem yang:
-**mudah digunakan, rapi secara visual, dan nyaman untuk pengguna — terutama perempuan.**
-
-> _Designing technology that feels simple and human._
+| Skill Area | Proficiency Level |
+|-----------|------------------|
+| Mobile UI/UX Design | Advanced (90%) |
+| System Analysis | Advanced (85%) |
+| Mobile Application Development | Intermediate (75%) |
+| Frontend Logic | Intermediate (70%) |
 
 ---
 
-## 📱 Fokus Mobile
-- Frameworks: Flutter (Dart), React Native (JavaScript/TypeScript)
-- Mobile-first UI patterns: responsive layout, accessible touch targets, microinteractions
-- Testing: widget/unit tests, end-to-end testing (integration)
-- Performance: fast startup, optical stability, minimal jank
-- Distribusi: CI/CD untuk Android & iOS, release notes, beta testing (TestFlight / Play Console)
+<!-- ===================== TECH STACK ===================== -->
+## Tools & Technologies
 
----
-
-## 🎨 What I Do
-- UI/UX Design (Web & Mobile)
-- User Flow & Wireframe
-- Prototyping (Figma)
-- System Analysis
-- Basic Frontend & Database Concept
-- Mobile app design handoff & developer collaboration
-
----
-
-## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,flutter,dart,react,reactnative,js,github" />
+<img src="https://skillicons.dev/icons?i=figma,flutter,dart,react,reactnative,js,github&theme=dark"/>
 </p>
 
 ---
 
-## 📂 Selected Projects
-**MomCare App (UI/UX Design)**  
-UI/UX aplikasi mobile untuk monitoring kehamilan  
-🔗 https://www.figma.com/design/NC8fE3zEtGAMsB6lYWpjJ3/APLIKASI-BIDAN
 
-**School Management Information System**  
-Sistem akademik sekolah berbasis web  
-🔗 https://www.figma.com/design/CHvd6SmGNWPiSVaijqR06o/SIM-SEKOLAH
+<!-- ===================== PROJECTS ===================== -->
+## Selected Mobile Projects
 
-**Cake Shop Website (CRUD System)**  
-Website UMKM dengan alur sederhana  
-🔗 https://www.figma.com/design/ixRXQHvIqjtPeuOhPmCrbF/projek-rpl
+### OXIRA — Oxygen Rental & Tracking Mobile App  
+Aplikasi mobile untuk penyewaan dan pelacakan tabung oksigen  
+dengan **QR Code, sistem deposit, dan integrasi Maps** untuk  
+menentukan lokasi tabung terdekat.  
+**Role**: System Analysis & Mobile UI/UX Design  
 
 ---
 
-## 📊 Analisis Statistik & Rekomendasi (singkat)
-Gambar statistik GitHub saat ini menunjukkan aktivitas dan bahasa yang digunakan. Untuk menyelaraskan profil dengan fokus mobile, berikut analisis cepat dan tindakan yang disarankan:
-
-- Observasi: Jika top languages saat ini lebih mengarah ke PHP/JS/HTML, itu menunjukkan portofolio web lebih dominan.
-  Rekomendasi: Buat 1–2 repo contoh mobile (minimal viable app) — contohnya: "momcare-mobile-flutter" dan/atau "momcare-mobile-reactnative".
-
-- Observasi: Statistik commits dan repositori terbanyak mencerminkan kontribusi.
-  Rekomendasi: Tambahkan commits teratur pada repo mobile, sertakan README yang jelas, screenshot, dan GIF demo aplikasi.
-
-- Observasi: Jika tidak banyak project open-source mobile
-  Rekomendasi: Buat proyek template (starter) dengan dokumentasi instalasi, layout mobile, dan contoh API lokal.
-
-- Observasi: Top languages card dapat berubah dalam 2–4 minggu jika ada aktivitas baru.
-  Rekomendasi: Pin repositori mobile di profil GitHub untuk menonjolkan keahlian.
+### PayTrack — Expense & Payment Tracking App  
+Aplikasi mobile untuk pencatatan dan pelacakan transaksi pembayaran  
+dengan fokus pada **kemudahan input, ringkasan data, dan usability mobile**.  
+**Role**: Mobile UI/UX Design & System Analysis  
 
 ---
 
-## 🖌 Design & UI Suggestions (singkat)
-- Gunakan palet warna hangat & netral untuk target pengguna perempuan (contoh: pastel coral, soft lavender, netral abu).
-- Tipografi: gunakan font yang mudah dibaca di mobile (ukuran dasar 16–18sp), kontras warna yang baik.
-- Komponen: desain card, bottom navigation, modals full-screen, serta microinteractions (Lottie/GIF) untuk feedback.
-- Showcase: tambahkan gambar layar (potrait) dan GIF singkat di README agar pengunjung langsung melihat fokus mobile.
+### MomCare — Mobile UI/UX Design  
+Aplikasi mobile untuk pemantauan kehamilan dengan pendekatan user-centered  
+🔗 https://www.figma.com/design/NC8fE3zEtGAMsB6lYWpjJ3/APLIKASI-BIDAN  
 
 ---
 
-## ✅ Langkah Selanjutnya (prioritas)
-1. Buat dua repo contoh mobile (Flutter &/atau React Native) dengan fitur dasar: auth, list, detail, storage lokal.
-2. Tambahkan screenshot + GIF demo ke README setiap repo.
-3. Update profil GitHub: pin repo mobile, tambahkan kata kunci (topics) seperti "flutter", "react-native", "mobile-ui".
-4. Setup CI sederhana (GitHub Actions) untuk build dan test otomatis (opsional: deploy ke Firebase App Distribution / TestFlight).
-5. Perbarui README ini dengan screenshots/links ke repositori mobile setelah dibuat.
+### School Management System — Mobile-Oriented UX  
+Sistem manajemen akademik dengan UX terstruktur dan navigasi jelas  
+🔗 https://www.figma.com/design/CHvd6SmGNWPiSVaijqR06o/SIM-SEKOLAH  
 
 ---
 
-## 📫 Contact
-📧 Email: rositasamsulleikaputrii@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/rosita-samsulleika-putri-2b7522350  
+### Cake Shop — Website  
+Perancangan UI flow dan CRUD sistem pemesanan UMKM berbasis mobile  
+🔗 https://www.figma.com/design/ixRXQHvIqjtPeuOhPmCrbF/projek-rpl  
 
 ---
 
-⭐ _Thanks for visiting my profile._
+<!-- ===================== CONTACT ===================== -->
+## Contact
+
+📧 **Email**  
+rositasamsulleikaputrii@gmail.com  
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/rosita-samsulleika-putri-2b7522350  
+
+---
+
+<div align="center">
+
+<b>Thank you for reviewing my mobile-focused GitHub profile</b><br/>
+
+
+
+
+</div>
