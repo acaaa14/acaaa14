@@ -3,10 +3,13 @@
 
 <h1>Rosita Samsulleika Putri</h1>
 
-<p>
-<b>Mobile UI/UX Designer • System Analyst • Mobile Developer</b><br/>
-<sub>Designing user-centered mobile applications with structured systems</sub>
+<p align="center">
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=2000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Mobile+UI%2FUX+Designer;System+Analyst;Designing+Android+%26+iOS+Applications"
+  alt="typing introduction"
+/>
 </p>
+
 
   <img 
       src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" 
@@ -59,13 +62,7 @@ Berpengalaman dalam proses pengembangan mobile secara end-to-end, meliputi:
 </table>
 
 <p align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
-  width="300"
-  alt="female ui ux designer working illustration"
-/>
-
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="female ui ux designer working illustration" />
 </p>
 
 ---
@@ -91,6 +88,8 @@ Berpengalaman dalam proses pengembangan mobile secara end-to-end, meliputi:
 
 ---
 
+
+---
 
 <!-- ===================== PROJECTS ===================== -->
 ## Selected Mobile Projects
